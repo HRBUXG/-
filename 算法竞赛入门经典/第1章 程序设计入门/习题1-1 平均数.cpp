@@ -1,5 +1,5 @@
 /*
-    Ï°Ìâ1-1 Æ½¾ùÊı£¨average£©
+   ä¹ é¢˜1-1 å¹³å‡æ•°ï¼ˆaverageï¼‰
 */
 
 #include<iostream>
